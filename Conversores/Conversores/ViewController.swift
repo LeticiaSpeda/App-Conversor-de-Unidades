@@ -12,7 +12,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var TexField: UITextField!
     @IBOutlet weak var ButtonCelsius: UIButton!
     @IBOutlet weak var ButtonFarenheint: UIButton!
-    
  
     @IBOutlet weak var Result: UILabel!
     @IBOutlet weak var UnidadeDeMedida: UILabel!
